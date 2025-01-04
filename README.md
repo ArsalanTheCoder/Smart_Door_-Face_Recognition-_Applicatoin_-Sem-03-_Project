@@ -16,9 +16,8 @@ Watch how the **Smart Door App** works in real-time: from recognizing members to
 ## 📸 **Screenshots Gallery**  
 
 ### **1. Smart Door App Logo**  
-![Smart Door App Logo](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/path/to/image.jpg)
+![Smart Door App Logo] "![Smart Door App Logo](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/path/to/image.jpg)"
 
-" 
 🔷 **Overview**: The app's sleek logo, symbolizing innovation and security.  
 
 ---
