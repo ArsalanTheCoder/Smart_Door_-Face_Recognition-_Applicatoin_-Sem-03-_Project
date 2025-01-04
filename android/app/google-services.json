@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1031337898372",
+    "project_id": "door-automation-project",
+    "storage_bucket": "door-automation-project.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031337898372:android:3501c81db197fc69e96dd1",
+        "android_client_info": {
+          "package_name": "com.example.fiebasesetup1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPdTY0YPk5eVPutlLTUfw--13iZQi1Cdo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

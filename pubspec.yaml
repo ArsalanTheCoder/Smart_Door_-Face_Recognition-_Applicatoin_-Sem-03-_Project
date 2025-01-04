@@ -1,0 +1,72 @@
+name: fiebasesetup1
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.1
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+#  http: ^1.2.2
+  firebase_core: ^2.0.0
+  firebase_auth: ^4.20.0
+  firebase_storage: ^11.0.6
+  firebase_database: ^10.0.7
+  firebase_messaging_web: ^3.5.19
+  firebase_storage_web: ^3.6.23
+  image_cropper: ^1.5.0
+  shared_preferences: ^2.3.3
+
+
+
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  image: ^4.3.0
+  image_picker: ^1.1.2
+  cloud_firestore: ^4.17.5
+  firebase_messaging: ^14.7.10
+  cloud_functions: ^4.7.6
+  uni_links: ^0.5.1
+  firebase_dynamic_links: ^5.5.7
+  fluttertoast: ^8.2.8
+
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.13.1
+  flutter_test:
+    sdk: flutter
+
+flutter_launcher_icons:
+  android: true
+  image_path: "assets/SmartDoorLogo.jpg"
+  adaptive_icon_background: "#FF5733"
+  adaptive_icon_foreground: "assets/SmartDoorLogo.jpg"
+
+
+  flutter_lints: ^4.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+  assets:
+    - assets/
+#    - model.tflite
+#    - assets/logo.png
+
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
