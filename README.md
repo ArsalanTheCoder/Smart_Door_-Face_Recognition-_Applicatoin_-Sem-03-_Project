@@ -16,7 +16,7 @@ Watch how the **Smart Door App** works in real-time: from recognizing members to
 ## 📸 **Screenshots Gallery**  
 
 ### **1. Smart Door App Logo**  
-![Smart Door App Logo](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-_Applicatoin_-Sem-03-_Project/refs/heads/master/forgot%205.jpg)
+![Smart Door App Logo](https://github.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/blob/master/door%20logo%201.jpg)
 
 🔷 **Overview**: The app's sleek logo, symbolizing innovation and security.  
 
@@ -41,7 +41,7 @@ Watch how the **Smart Door App** works in real-time: from recognizing members to
 ---
 
 ### **5. Forgot Password Screen**  
-![Forgot Password Screen]([assets/screenshots/forgot_password_screen.jpg](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-_Applicatoin_-Sem-03-_Project/refs/heads/master/forgot%205.jpg))  
+![Forgot Password Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-_Applicatoin_-Sem-03-_Project/refs/heads/master/forgot%205.jpg)  
 ❓ **Overview**: Reset your password effortlessly with a secure process.  
 
 ---
