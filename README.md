@@ -112,9 +112,3 @@ Watch how the **Smart Door App** works in real-time: from recognizing members to
 4. **Permission-Based Access**: The door opens only upon homeowner approval or stays closed.  
 
 ---
-
-## 📋 **Setup Instructions**  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/your-username/Smart-Door-App.git
-   cd Smart-Door-App
