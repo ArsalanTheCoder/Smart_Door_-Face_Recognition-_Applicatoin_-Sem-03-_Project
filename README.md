@@ -22,7 +22,7 @@ Watch how the **Smart Door App** works in real-time: from recognizing members to
 ---
 
 ### **2. Welcome Screen**  
-![Welcome Screen](assets/screenshots/welcome_screen.jpg)  
+![Welcome Screen](https://imgur.com/ZCkzoSY)  
 👋 **Overview**: A warm introduction for users with smooth navigation options.  
 
 ---
