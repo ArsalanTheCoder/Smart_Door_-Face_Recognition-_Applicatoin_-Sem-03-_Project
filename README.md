@@ -16,14 +16,14 @@ Watch how the **Smart Door App** works in real-time: from recognizing members to
 ## 📸 **Screenshots Gallery**  
 
 ### **1. Smart Door App Logo**  
-![Smart Door App Logo] "![Smart Door App Logo](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/path/to/image.jpg)"
+![Smart Door App Logo](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/path/to/image.jpg)
 
 🔷 **Overview**: The app's sleek logo, symbolizing innovation and security.  
 
 ---
 
 ### **2. Welcome Screen**  
-![Welcome Screen]("https://imgur.com/ZCkzoSY")  
+![Welcome Screen](https://github.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/blob/master/welcome%202.jpg?raw=true")  
 👋 **Overview**: A warm introduction for users with smooth navigation options.  
 
 ---
