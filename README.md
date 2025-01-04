@@ -41,7 +41,7 @@ Watch how the **Smart Door App** works in real-time: from recognizing members to
 ---
 
 ### **5. Forgot Password Screen**  
-![Forgot Password Screen](assets/screenshots/forgot_password_screen.jpg)  
+![Forgot Password Screen]([assets/screenshots/forgot_password_screen.jpg](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-_Applicatoin_-Sem-03-_Project/refs/heads/master/forgot%205.jpg))  
 ❓ **Overview**: Reset your password effortlessly with a secure process.  
 
 ---
