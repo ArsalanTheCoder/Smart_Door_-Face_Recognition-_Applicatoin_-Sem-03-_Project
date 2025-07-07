@@ -8,7 +8,9 @@ The **Smart Door App** revolutionizes home security with cutting-edge face recog
 ## 🎥 **App Demo Video**  
 🎬 **See the App in Action!**  
 Watch how the **Smart Door App** works in real-time: from recognizing members to sending homeowner alerts for strangers. Experience the perfect blend of security and convenience!  
-[![Smart Door App Video](assets/screenshots/video_thumbnail.jpg)](assets/demo_video.mp4)  
+
+https://github.com/user-attachments/assets/a303be7d-fd6a-4500-bf49-f3ec69be5435
+
 *👆 Click to watch the full video!*  
 
 ---
