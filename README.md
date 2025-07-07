@@ -15,78 +15,43 @@ https://github.com/user-attachments/assets/a303be7d-fd6a-4500-bf49-f3ec69be5435
 
 ---
 
-## 📸 **Screenshots Gallery**  
+## 📸 Screenshots Gallery
 
-### **1. Smart Door App Logo**  
-![Smart Door App Logo](https://github.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/blob/master/door%20logo%201.jpg)
+### 1. Smart Door App Logo  
+![Smart Door App Logo](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/door%20logo%201.jpg)
 
-🔷 **Overview**: The app's sleek logo, symbolizing innovation and security.  
+### 2. Welcome Screen  
+![Welcome Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/welcome%202.jpg)
 
----
+### 3. Registration Screen  
+![Registration Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/registration_screen.jpg)
 
-### **2. Welcome Screen**  
-![Welcome Screen](https://github.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/blob/master/welcome%202.jpg?raw=true")  
-👋 **Overview**: A warm introduction for users with smooth navigation options.  
+### 4. Login Screen  
+![Login Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/login_screen.jpg)
 
----
+### 5. Forgot Password Screen  
+![Forgot Password Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/forgot%205.jpg)
 
-### **3. Registration Screen**  
-![Registration Screen](assets/screenshots/registration_screen.jpg)  
-📝 **Overview**: New users can securely register with personal details.  
+### 6. Homepage Screen  
+![Homepage Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/homepage_screen.jpg)
 
----
+### 7. User Management Screen (Admin Only)  
+![User Management Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/user_management_screen.jpg)
 
-### **4. Login Screen**  
-![Login Screen](assets/screenshots/login_screen.jpg)  
-🔑 **Overview**: Log in quickly with secure credentials to access your account.  
+### 8. Add Permanent Member Screen  
+![Add Permanent Member Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/add_member_screen.jpg)
 
----
+### 9. Recognize Member Screen  
+![Recognize Member Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/recognize_member_screen.jpg)
 
-### **5. Forgot Password Screen**  
-![Forgot Password Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-_Applicatoin_-Sem-03-_Project/refs/heads/master/forgot%205.jpg)  
-❓ **Overview**: Reset your password effortlessly with a secure process.  
+### 10. Stranger Detection Screen  
+![Stranger Detection Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/stranger_detection_screen.jpg)
 
----
+### 11. Email Notification Example  
+![Email Notification Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/email_notification.jpg)
 
-### **6. Homepage Screen**  
-![Homepage Screen](assets/screenshots/homepage_screen.jpg)  
-🏠 **Overview**: A central hub for accessing all features and monitoring door activity.  
-
----
-
-### **7. User Management Screen (Admin Only)**  
-![User Management Screen](assets/screenshots/user_management_screen.jpg)  
-👨‍💼 **Overview**: Admins can manage and monitor user activity seamlessly.  
-
----
-
-### **8. Add Permanent Member Screen**  
-![Add Permanent Member Screen](assets/screenshots/add_member_screen.jpg)  
-👥 **Overview**: Add and manage permanent members with ease.  
-
----
-
-### **9. Recognize Member Screen**  
-![Recognize Member Screen](assets/screenshots/recognize_member_screen.jpg)  
-✅ **Overview**: Automatically identify registered members upon arrival.  
-
----
-
-### **10. Stranger Detection Screen**  
-![Stranger Detection Screen](assets/screenshots/stranger_detection_screen.jpg)  
-🚨 **Overview**: Detect unrecognized faces and send a photo to the homeowner.  
-
----
-
-### **11. Email Notification Example**  
-![Email Notification Screen](assets/screenshots/email_notification.jpg)  
-📧 **Overview**: Real-time email alerts to homeowners for unrecognized visitors.  
-
----
-
-### **12. Door Status Screen**  
-![Door Status Screen](assets/screenshots/door_status_screen.jpg)  
-🚪 **Overview**: View and control the door's status directly from the app.  
+### 12. Door Status Screen  
+![Door Status Screen](https://raw.githubusercontent.com/ArsalanTheCoder/Smart_Door_-Face_Recognition-Applicatoin-Sem-03-_Project/master/assets/screenshots/door_status_screen.jpg)
 
 ---
 
